@@ -12,4 +12,9 @@ class IndexController extends Controller
         // dd($blog);exit;
         return view('home', compact('blog'));
     }
+
+    public function post(){
+        $blog = Blog::all();
+        return view('post', compact('blog'));
+    }
 }

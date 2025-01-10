@@ -30,6 +30,16 @@ class BlogSeeder extends Seeder
             'content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto accusantium pra',
             'image' => 'hallo.jpg'
             ],
+            [
+            'title' => 'Coffee terbaru 4',
+            'content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto accusantium pra',
+            'image' => 'hallo.jpg'
+            ],
+            [
+            'title' => 'Coffee terbaru 5',
+            'content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto accusantium pra',
+            'image' => 'hallo.jpg'
+            ],
         ]);
     }
 }

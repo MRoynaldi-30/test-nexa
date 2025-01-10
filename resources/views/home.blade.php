@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Test - Nexa Muhammad Roynaldi</title>
+    <title>Home - Nexa Muhammad Roynaldi</title>
     @vite('resources/css/app.css')
 </head>
 
@@ -47,7 +47,7 @@
                     </div>
                 </div>
                 <div class="flex items-center gap-2">
-                    <img src="{{ asset('img/card1.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
+                    <img src="{{ asset('img/card2.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
                     <div class="w-full pr-8">
                         <div class="flex justify-between border-b-2">
                             <h3 class="text-lg font-semibold">Cappucino</h3>
@@ -57,7 +57,7 @@
                     </div>
                 </div>
                 <div class="flex items-center gap-2">
-                    <img src="{{ asset('img/card1.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
+                    <img src="{{ asset('img/card3.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
                     <div class="w-full pr-8">
                         <div class="flex justify-between border-b-2">
                             <h3 class="text-lg font-semibold">Moccacino</h3>
@@ -67,7 +67,7 @@
                     </div>
                 </div>
                 <div class="flex items-center gap-2">
-                    <img src="{{ asset('img/card1.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
+                    <img src="{{ asset('img/card4.png') }}" alt="newarrival" class="rounded-full w-14 h-14">
                     <div class="w-full pr-8">
                         <div class="flex justify-between border-b-2">
                             <h3 class="text-lg font-semibold">Milk Coffe</h3>
@@ -77,7 +77,7 @@
                     </div>
                 </div>
                 <div class="flex items-center gap-2">
-                    <img src="{{ asset('img/card1.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
+                    <img src="{{ asset('img/coffee.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
                     <div class="w-full pr-8">
                         <div class="flex justify-between border-b-2">
                             <h3 class="text-lg font-semibold">Americano</h3>
@@ -104,7 +104,7 @@
                     </div>
                 </div>
                 <div class="flex items-center gap-2">
-                    <img src="{{ asset('img/card1.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
+                    <img src="{{ asset('img/card2.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
                     <div class="w-full pr-8">
                         <div class="flex justify-between border-b-2">
                             <h3 class="text-lg font-semibold">Cappucino</h3>
@@ -114,7 +114,7 @@
                     </div>
                 </div>
                 <div class="flex items-center gap-2">
-                    <img src="{{ asset('img/card1.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
+                    <img src="{{ asset('img/card3.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
                     <div class="w-full pr-8">
                         <div class="flex justify-between border-b-2">
                             <h3 class="text-lg font-semibold">Moccacino</h3>
@@ -124,7 +124,7 @@
                     </div>
                 </div>
                 <div class="flex items-center gap-2">
-                    <img src="{{ asset('img/card1.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
+                    <img src="{{ asset('img/card4.png') }}" alt="newarrival" class="rounded-full w-14 h-14">
                     <div class="w-full pr-8">
                         <div class="flex justify-between border-b-2">
                             <h3 class="text-lg font-semibold">Milk Coffe</h3>
@@ -134,7 +134,7 @@
                     </div>
                 </div>
                 <div class="flex items-center gap-2">
-                    <img src="{{ asset('img/card1.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
+                    <img src="{{ asset('img/coffee.jpg') }}" alt="newarrival" class="rounded-full w-14 h-14">
                     <div class="w-full pr-8">
                         <div class="flex justify-between border-b-2">
                             <h3 class="text-lg font-semibold">Americano</h3>

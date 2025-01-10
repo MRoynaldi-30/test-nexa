@@ -2,7 +2,7 @@
 # Test Nexa
 project Test Nexa Web Development.
 
-## Menjalankan BE
+## Cara menjalankan Project
 
 Clone repositori:
 
@@ -28,7 +28,7 @@ Kemudian, edit file .env dan atur konfigurasi database Anda:
 ```bash
   DB_CONNECTION=pgsql
   DB_HOST=127.0.0.1
-  DB_PORT=3306
+  DB_PORT=5432
   DB_DATABASE=test-nexa
   DB_USERNAME=root
   DB_PASSWORD=your_password

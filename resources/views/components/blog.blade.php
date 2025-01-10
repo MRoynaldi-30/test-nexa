@@ -30,7 +30,7 @@
             </svg>
             <a href="#" class="font-bold text-xl inline-block">Simple Coffee BLog</a>
         </div>
-        <a href="#">See All</a>
+        <a href="{{ route('post') }}">See All</a>
     </div>
 
     <div class="mx-auto mt-12 grid max-w-lg gap-5 lg:max-w-none lg:grid-cols-3">
