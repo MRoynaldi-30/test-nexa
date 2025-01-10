@@ -2,6 +2,14 @@
 # Test Nexa
 project Test Nexa Web Development.
 
+
+## ScreenShoot/Preview Projek
+  ### Home Page
+![Logo](./public/ss-img/home.png)
+  ### Blog Page
+![Logo](./public/ss-img/blog.png)
+
+
 ## Cara menjalankan Project
 
 Clone repositori:
